@@ -2,7 +2,7 @@
 This project is a basic weather forecast app.This project shows temperature(celcius,fahrenheit,kelvin), humidity rate, wind speed and highest and lowest temperature of the day. 
  
 
-![Weather App](https://imgur.com/a/5VVP3BV | height=200)
+![Weather App](https://imgur.com/a/5VVP3BV)
 
 ## Installing and Running the App
  - git clone https://github.com/citakilkay/weather-app.git
