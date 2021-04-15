@@ -17,4 +17,4 @@ This project is a basic weather forecast app.This project shows temperature(celc
  - Boostrap
  - OpenWeathermap Api
 
-LICENSE:MIT
+LICENSE:MIT 
