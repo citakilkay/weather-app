@@ -1,8 +1,8 @@
 ## Weather App
 This project is a basic weather forecast app.This project shows temperature(celcius,fahrenheit,kelvin), humidity rate, wind speed and highest and lowest temperature of the day. 
  
-
-![Weather App](https://i.ibb.co/L8S5NY7/weather-app.jpg)
+## Live:
+https://weather-forecast1.netlify.app/
 
 ## Installing and Running the App
  - git clone https://github.com/citakilkay/weather-app.git
